@@ -19,8 +19,8 @@ Back in your terminal, you should still be in your project folder
 
 ```
 git filter-branch -f --env-filter '
-OLD_EMAIL="paste your old email here"
-NEW_NAME="paste the name you want displayed"
+OLD_EMAIL="the old account email you saw in git log"
+NEW_NAME="the name you want displayed for these rewritten commits"
 NEW_EMAIL="your new account email"
 if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
 then
