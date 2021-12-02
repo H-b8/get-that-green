@@ -8,7 +8,7 @@
 6. Now do your usual add, commit, and push
 7. Check your new repo on GitHub to make sure it was pushed up
 
-You can stop here if you want! This will show the project on your new account, but all commits will show that they are written by your other account. And therefor, you will not receive green activity squares on your profile page.
+You can stop here if you want! This will show the project on your new account, but all commits will show that they are written by your other account. Thus, you will not receive green activity squares on your new profile page.
 
 If your name is attached to your other account, there's no doubt that you were the one who wrote this code. You can pin it to your profile for people to see. And if you wanted, you could update the "About" section (on the right of your repo) to inform viewers that this was initially written by you from a different account.
 
