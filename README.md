@@ -43,4 +43,4 @@ fi
 
 Your profile will now reflect that you made *a bunch* of commits today. But should now also show activity for past dates!
 
-*ADDITIONAL INFO:* https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
+**ADDITIONAL INFO:** https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
