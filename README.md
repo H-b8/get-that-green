@@ -8,7 +8,9 @@
 6. Now do your usual add, commit, and push
 7. Check your new repo on GitHub to make sure it was pushed up
 
-You can stop here if you want. Doing this will show the project on your new account, but any past commits made from your old account will show that account's name and you will not receive the green squares for that activity.
+You can stop here if you want! But you will not receive green activity squares on your profile. This will only show the project on your new account. You can pin it to your profile for people to see. Since there's only going to be one commit at this time, you might want to update the "About" section on the right to inform viewers that this was initially written by you from a different account.
+
+To retroactively receive green activity squares, follow the next set of directions.
 
 ### REWRITING HISTORY (GETTING RETROACTIVE GREEN SQUARES)
 
