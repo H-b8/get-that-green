@@ -8,11 +8,11 @@
 6. Now do your usual add, commit, and push
 7. Check your new repo on GitHub to make sure it was pushed up
 
-Doing this will show the project on your new account, but any past commits made from your old account will show that account's name and you will not receive the green squares for that activity.
+You can stop here if you want. Doing this will show the project on your new account, but any past commits made from your old account will show that account's name and you will not receive the green squares for that activity.
 
 ### REWRITING HISTORY (GETTING RETROACTIVE GREEN SQUARES)
 
-Back in your terminal, you should still be in your project folder
+*After doing above steps*, go back in your terminal. You should still be in your project folder
 
 1. Run `git log`. You should see a history of your commits with the **Author** key displaying `your name <your old email>`. Take note of your old email here, we'll be using it later. Hit 'q' to get out
 2. Copy this block of code into a text editor and change variables for OLD_EMAIL, NEW_NAME, and NEW_EMAIL on the second through fourth line. DO NOT TOUCH ANYTHING ELSE. (**Note:** If your email for your new account is the same as an old enterprise account, this is okay. Just set the same email for each variable anyways)
