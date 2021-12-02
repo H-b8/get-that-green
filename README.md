@@ -15,7 +15,7 @@ You can stop here if you want. Doing this will show the project on your new acco
 *After doing above steps*, go back in your terminal. You should still be in your project folder
 
 1. Run `git log`. You should see a history of your commits with the **Author** key displaying `your name <your old email>`. Take note of your old email here, we'll be using it later. Hit 'q' to get out
-2. Copy this block of code into a text editor and change variables for OLD_EMAIL, NEW_NAME, and NEW_EMAIL on the second through fourth line. DO NOT TOUCH ANYTHING ELSE. (**Note:** If your email for your new account is the same as an old enterprise account, this is okay. Just set the same email for each variable anyways)
+2. Copy this block of code into a text editor and change variables for OLD_EMAIL, NEW_NAME, and NEW_EMAIL on the second through fourth line. DO NOT TOUCH ANYTHING ELSE. (**NOTE:** If your email for your new account is the same as an old enterprise account, this is okay. Just set the same email for each variable anyways)
 
 ```
 git filter-branch -f --env-filter '
@@ -42,3 +42,5 @@ fi
 7. Now do your usual add, commit, and push again
 
 Your profile will now reflect that you made *a bunch* of commits today. But should now also show activity for past dates!
+
+*ADDITIONAL INFO:* https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History
