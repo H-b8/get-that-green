@@ -4,7 +4,7 @@
 2. On GitHub: In your new account, create a new repository
 3. In terminal: `cd` into your old project repo
 4. Change its remote origin to that of your new repository that was created on your new account using `git remote set-url origin [PASTE SSH/HTTP HERE URL]`
-5. Run `git remote -v` to check that it's correct
+5. Run `git remote -v` to check that it has updated correctly
 6. Now do your usual add, commit, and push
 7. Check your new repo on GitHub to make sure it was pushed up
 
